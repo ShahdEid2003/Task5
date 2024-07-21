@@ -1,0 +1,15 @@
+.team-section{
+    background-color:whitesmoke;
+    text-align: center;
+    
+}
+.team-member{
+    float: left;
+    width: 33.33%;
+}
+
+
+
+.clearfix{
+    clear: left;
+}
